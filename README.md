@@ -30,9 +30,6 @@
 
 
 
-So, Connect -> Interact -> Learn -> Grow-> Evolve.
-
-
 - 🏢 I am final year Engineering Student with artistic tendencies who is continuously amalgamating observations, analysis and insights put into content for helping people in adding more context to there digital presence and Personal Brand.
 - 💻 I love Technology very much. I believe technology upgrade people's life and solve social problem easily.
 - 🚀 I love Electronics very much. Being Electronics and Communication Engineer, I love to talk with Arduino and sensors. This interest take me to the world of IOT - Internet of Things.
@@ -46,6 +43,8 @@ So, Connect -> Interact -> Learn -> Grow-> Evolve.
 - 💜 Interests: huge Technology fan, Cinema Lover, foodie, Nature, Travelling, Games
 - 😄 Passionate about accessibility and committed to a web that works for everyone.
 - 🦋 I love to build new connections , to have a new interactions & exchange of thoughts across the world.
+
+                        So, Connect -> Interact -> Learn -> Grow-> Evolve.
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gopinath2018/">LinkedIn</a>
