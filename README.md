@@ -49,8 +49,7 @@
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gopinath2018/">LinkedIn</a>
 - 🎧 Listening to all my favorite jams on <a href="https://open.spotify.com/user/gopinath2018">Spotify</a>
-- 🌐 Updating my personal website with examples of my work on <a href="https://medium.com">gopinath.com</a>
-- 🐦 Tweeting about Beyonce, memes and sharing tech tweets on <a href="https://twitter.com/gopinath2018/">Twitter</a>
+- 🐦 Tweeting about nature, memes and sharing tech tweets on <a href="https://twitter.com/gopinath2018/">Twitter</a>
 
 
 ---
